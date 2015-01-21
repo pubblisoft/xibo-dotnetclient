@@ -1,0 +1,6 @@
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue\bin\Debug\Xilium.CefGlue.xml
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue\bin\Debug\Xilium.CefGlue.dll
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue\bin\Debug\Xilium.CefGlue.pdb
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue\obj\Debug\CefGlue.csprojResolveAssemblyReference.cache
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue\obj\Debug\Xilium.CefGlue.dll
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue\obj\Debug\Xilium.CefGlue.pdb

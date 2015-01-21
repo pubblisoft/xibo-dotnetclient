@@ -1,0 +1,12 @@
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\bin\Release\Xilium.CefGlue.WPF.dll
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\bin\Release\Xilium.CefGlue.WPF.pdb
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\bin\Release\NLog.dll
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\bin\Release\Xilium.CefGlue.dll
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\bin\Release\Xilium.CefGlue.pdb
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\bin\Release\Xilium.CefGlue.xml
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\bin\Release\NLog.xml
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\obj\Release\CefGlue.WPF.csprojResolveAssemblyReference.cache
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\obj\Release\Xilium.CefGlue.WPF.Properties.Resources.resources
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\obj\Release\CefGlue.WPF.csproj.GenerateResource.Cache
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\obj\Release\Xilium.CefGlue.WPF.dll
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.WPF\obj\Release\Xilium.CefGlue.WPF.pdb

@@ -1,0 +1,1 @@
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.GtkSharp\obj\x86\Release\CefGlue.Demo.GtkSharp.csprojResolveAssemblyReference.cache

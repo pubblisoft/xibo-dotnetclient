@@ -1,0 +1,14 @@
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\bin\x86\Debug\Xilium.CefGlue.Demo.WinForms.exe.config
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\bin\x86\Debug\Xilium.CefGlue.Demo.WinForms.exe
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\bin\x86\Debug\Xilium.CefGlue.Demo.WinForms.pdb
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\bin\x86\Debug\Xilium.CefGlue.Demo.dll
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\bin\x86\Debug\Xilium.CefGlue.dll
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\bin\x86\Debug\Xilium.CefGlue.Demo.pdb
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\bin\x86\Debug\Xilium.CefGlue.pdb
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\bin\x86\Debug\Xilium.CefGlue.xml
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\obj\x86\Debug\CefGlue.Demo.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\obj\x86\Debug\Xilium.CefGlue.Demo.Properties.Resources.resources
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\obj\x86\Debug\Xilium.CefGlue.Demo.WebNavigationBox.resources
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\obj\x86\Debug\CefGlue.Demo.WinForms.csproj.GenerateResource.Cache
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\obj\x86\Debug\Xilium.CefGlue.Demo.WinForms.exe
+C:\Users\pubblisoft\Downloads\xilium-xilium.cefglue-335450e6011d\xilium-xilium.cefglue-335450e6011d\CefGlue.Demo.WinForms\obj\x86\Debug\Xilium.CefGlue.Demo.WinForms.pdb
